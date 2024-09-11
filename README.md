@@ -6,3 +6,15 @@ I am driven by a passion for backend architecture and solving complex problems, 
 
 # Stack
 <img src="https://cdn.iconscout.com/icon/free/png-512/python-2-226051.png" alt="Python" width="50px" height="auto" /> <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Django" width="50px" height="auto" /> <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" alt="SQL" width="50px" height="auto" /> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" alt="HTML" width="50px" height="auto" />  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="CSS" width="50px" height="auto" /> 
+
+#Projects
+• Learning Management System Backend: Developed a
+backend system to track student progress, grades, and
+reports using Python, Django, and PostgreSQL.
+• Educational API for Student Reports: Built an API that
+integrates multiple educational tools and automates student
+report generation.
+• Data Analysis Tool for Student Performance: Created a
+Python-based tool that processes student data, providing
+insights and recommendations for educators based on
+performance metrics.
